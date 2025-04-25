@@ -52,7 +52,7 @@
 \contentsline {subsection}{\numberline {15.6}安检配置}{15}{subsection.15.6}%
 \contentsline {subsection}{\numberline {15.7}用户配置}{16}{subsection.15.7}%
 \contentsline {subsection}{\numberline {15.8}溯源配置}{16}{subsection.15.8}%
-\contentsline {subsection}{\numberline {15.9}场站配置}{17}{subsection.15.9}%
+\contentsline {subsection}{\numberline {15.9}场站配置}{18}{subsection.15.9}%
 \contentsline {subsection}{\numberline {15.10}营销配置}{18}{subsection.15.10}%
 \contentsline {subsection}{\numberline {15.11}消息配置}{18}{subsection.15.11}%
 \contentsline {subsection}{\numberline {15.12}呼叫中心配置}{18}{subsection.15.12}%
